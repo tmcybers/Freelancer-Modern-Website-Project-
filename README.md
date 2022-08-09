@@ -1,7 +1,12 @@
 # Freelancer-Modern-Website-2022-Project-
 
+![Captura de pantalla de 2022-08-09 14-08-50](https://user-images.githubusercontent.com/97669969/183643629-f84d7fc4-7992-4bd2-ae04-b3eb1711864e.png)
 
-# What makes this a Modern Web? 
+![Captura de pantalla de 2022-08-09 14-09-17](https://user-images.githubusercontent.com/97669969/183643656-929d20a8-d8b0-4f21-9cdf-4403350335b0.png)
+
+# Live Website : https://tmcybersfreelancer.netlify.app/
+
+# What makes a Modern Web, taking into account not only the appearance? 
 
 ### ----> The Modern Programming Skills of Every Developer <----
 
