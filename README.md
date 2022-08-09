@@ -12,6 +12,9 @@
 
 # Here’s a list of some of the most popular uses of this web today:
 
+
+
+
 * eCommerce website
 
 * Business website
@@ -54,6 +57,10 @@
 # Browser Compatibility (High-Grade)
 
 #### Here are just some of them only -->
+
+
+
+
 
 * Microsoft IE 5.01+
 * Netscape Communicator 4.7+
