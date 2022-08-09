@@ -182,36 +182,44 @@
         <form class="formulario">
           <fieldset>
             <legend>Contactame Llenando el Formulario</legend>
-            <div class="campos">
-            <div class="campo">
-              <label>Nombre</label>
-              <input type="tel" placeholder="Tu Nombre" />
-            </div>
-
-            <div class="campo">
-              <label>Telefono</label>
-              <input type="tel" placeholder="Tu Telefono" />
-            </div>
-
-            <div class="campo">
-              <label>Correo</label>
-              <input type="tel" placeholder="Tu Email" />
-            </div>
-
-            <div class="campo">
-              <label>Mensaje</label>
-              <textarea> </textarea>
+            <div class="contenedor-campos">
+              <!--contendor campos -->
+              <div class="campo">
+                <label>Nombre</label>
+                <input class="input-text" type="text" placeholder="Tu Nombre" />
               </div>
-            </div> <!--.contendor campos -->
 
-            <div><button type="submit" value="Enviar">Enviar</button></div>
+              <div class="campo">
+                <label>Telefono</label>
+                <input
+                  class="input-text"
+                  type="tel"
+                  placeholder="Tu Telefono"
+                />
+              </div>
+
+              <div class="campo">
+                <label>Correo</label>
+                <input class="input-text" type="email" placeholder="Tu Email" />
+              </div>
+
+              <div class="campo">
+                <label>Mensaje</label>
+                <textarea class="input-text"> </textarea>
+              </div>
+            </div>
+            <!--.contendor campos -->
+
+            <div class="alinear-derecha flex">
+              <input class="botton w-sm-100" type="submit" value="Enviar" />
+            </div>
           </fieldset>
         </form>
       </section>
     </main>
 
-    <footer>
-      <p>Todos los derechos reservados. TMCyber Freelancer</p>
+    <footer class="footer">
+      <p>Todos los Derechos Reservados.Created and Styled @TMCyber Freelancer</p>
     </footer>
   </body>
 </html>
