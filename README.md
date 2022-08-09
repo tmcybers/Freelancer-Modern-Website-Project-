@@ -1,6 +1,16 @@
 # Freelancer-Modern-Website-2022-Project-
 
-Here’s a list of some of the most popular uses of this web today:
+
+# What makes this a Modern Web? 
+
+### ----> The Modern Programming Skills of Every Developer <----
+
+
+
+
+
+
+# Here’s a list of some of the most popular uses of this web today:
 
 * eCommerce website
 
@@ -22,7 +32,6 @@ Here’s a list of some of the most popular uses of this web today:
 
 * Online forum
 
-## Why? What makes this a Modern Web? ----> The Modern Programming Skills of Every Developer <----
 
 
 
@@ -42,7 +51,26 @@ Here’s a list of some of the most popular uses of this web today:
 * All Surface
 * Etc
 
+# Browser Compatibility (High-Grade)
 
+#### Here are just some of them only -->
+
+* Microsoft IE 5.01+
+* Netscape Communicator 4.7+
+* Mozilla Firefox 1.0+
+* Mozilla Suite 1.0+
+* AOL 5+
+* Opera 7+
+* Apple Safari 1.0+
+* Red Hat Linux Konqeror
+* Sony Playstation
+* Microsoft WebTV
+* Google Chrome
+* Apple Safari
+* Kingpin browser
+* Tor browser
+* Iridium browser
+* etc
 
 # Scroll Snap Prepared 
 
