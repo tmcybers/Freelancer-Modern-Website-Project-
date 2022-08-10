@@ -109,3 +109,18 @@ Fact: If your website does not have the right content strategy or has not been o
 Don’t just get a website, get an SEO Ready™ website that will gain the right positioning and visibility at the major search engines like Google™, Bing™, Yahoo™ and Ask.com™.
 
 ### Fact: All my websites are built SEO Compliant, Ready and Certified™ right from the start! I deliver the best of the latest technology in website development, security, usability and search engine compatibility.
+
+
+### If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+
+
+
+<a href="https://www.buymeacoffee.com/tonymerisan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+
+
+
+
+
